@@ -1,4 +1,4 @@
-B# 0x00. Emacs
+# 0x01. Emacs
 
 For this project, students are expected to look at these concepts:
 
