@@ -71,3 +71,7 @@ At the end of this project you should be able to reproduce and understand these 
    $ git add test
    $ git commit -m "Initial commit"
    $ git push origin master
+
+## Author :pen:
+
+Jacob Ide
